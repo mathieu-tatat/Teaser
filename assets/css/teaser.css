@@ -319,7 +319,7 @@ media queries format mobile
         color: antiquewhite;
         font-size: 17px;
         position: fixed;
-        top:71.5%;
+        top:65.8%;
         width: 95%;
         left: 3%;
         background-color: rgba(43, 41, 41, 0.64);
@@ -333,7 +333,7 @@ media queries format mobile
         margin: auto;
         gap: 2px;
         left: 0%;
-        top: 92%;
+        top: 90%;
         height: 40px;
     }
 
@@ -356,8 +356,10 @@ media queries format mobile
     }
 
     .drop{
-        width: 50px;
-        padding: 2px
+        width: 40px;
+        padding: 2px;
+        height: 45px;
+        
         
     }
 
@@ -398,7 +400,7 @@ media queries format mobile
             letter-spacing:-13px;
             display: flex;
             flex-direction: column;
-            top: -20px;
+            top: -35px;
             
         }
 
@@ -480,12 +482,12 @@ media queries format mobile
 
         h3{
             color: aliceblue;
-            font-size: 35px;
+            font-size: 32px;
             display: flex;
             align-items: baseline;
             position: absolute;
             left: 3%;
-            top: 65%;
+            top: 60%;
             width: 95%;
             background-color: rgba(43, 41, 41, 0.64);
             border-radius: 5px;
